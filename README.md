@@ -1,0 +1,1 @@
+"Through Time and Space" is an engaging space-themed game, inspired by the iconic "Space Invaders". Developed in Python using the Pygame library, this project currently features a single, dynamically crafted level, with plans for future expansion. The game is set in a retro space era, combining nostalgic, pixelated graphics with a modern gameplay experience.
